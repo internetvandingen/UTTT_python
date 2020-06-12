@@ -6,5 +6,5 @@ Python:
 Average: 5.6833333 ms/game or 175 games/s
 
 C++:
-10000 random games in [3.957, 3.970, 3.960] seconds.
-Average: 0.396 ms/game or 2523 games/s
+100000 random games in [6.658, 6.375, 6.368] seconds.<br>
+Average: 0.06467 ms/game or 15463 games/s
